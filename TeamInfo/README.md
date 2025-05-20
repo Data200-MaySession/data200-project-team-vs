@@ -1,14 +1,12 @@
 # Project Title
-
+Analyzing the Impact of Study Habits and Sleep Patterns on Academic Performance
 ## Team Information
-
 ### Team Name
-*Replace this with your team name*
+Team VS
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. Priyanshu Sanjel(Priyanshu7207)
+2. Mahima Adhikari(Mahima920)
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
